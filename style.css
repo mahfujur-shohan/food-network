@@ -1,5 +1,10 @@
 .diet{
     display: flex;
+    margin: 2px;
+}
+.bg-img{
+    background-image: url(images/three.png);
+    background-repeat: no-repeat;
 }
 .link-button{
     text-decoration: none;
@@ -18,16 +23,30 @@ h2{
 }
 .half-width img{
     width: 90%;
+    height: 80%;
 }
 .left-part{
     margin-top: 100px;
 }
 .right-part{
-    margin-bottom: 80px;
+    margin-bottom: 30px;
 }
 .orange-color{
     color: orange;
 }
 .font-size{
     font-size: 40px;
+}
+.right-part2{
+    margin-top: 70px;
+    margin-right: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.right-part2 h1{
+    font-size: 30px;
+}
+.right-part2 p{
+    margin-bottom: 80px;
 }
