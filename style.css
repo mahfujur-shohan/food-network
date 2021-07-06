@@ -21,9 +21,13 @@
 h2{
     font-size: 30px;
 }
-.half-width img{
+#img-edit1{
     width: 90%;
     height: 80%;
+}
+#img-edit2{
+    width: 100%;
+    height: 50%;
 }
 .left-part{
     margin-top: 100px;
@@ -40,6 +44,7 @@ h2{
 .right-part2{
     margin-top: 70px;
     margin-right: 70px;
+    margin-left: 70px;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
@@ -49,4 +54,7 @@ h2{
 }
 .right-part2 p{
     margin-bottom: 80px;
+}
+.left-part p{
+    margin-bottom: 50px;
 }
