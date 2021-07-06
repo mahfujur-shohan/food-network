@@ -75,7 +75,40 @@ h2{
 .row{
     display: flex;
     margin-left: 8%;
+    margin-bottom: 80px;
 }
 .column p{
     margin-right: 15%;
+}
+.myitem{
+    background-color: grey;
+    margin-top: 50px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+#myname{
+    color: blue;
+}
+#my-box{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#net{
+    color: grey;
+}
+#last{
+    color: white;
+}
+.foot-part{
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 90px;
+    margin: 0; 
 }
