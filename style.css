@@ -81,7 +81,7 @@ h2{
     margin-right: 15%;
 }
 .myitem{
-    background-color: grey;
+    background-image: linear-gradient(orange, tomato);
     margin-top: 50px;
     width: 50%;
     margin-left: 25%;
@@ -96,7 +96,7 @@ h2{
 }
 #my-box{
     border-left: 7px solid;
-    border-image: linear-gradient(blue,cyan);
+    border-image: linear-gradient(red, orange, tomato, green);
     border-image-slice: 1;
 }
 #net{
@@ -111,4 +111,7 @@ h2{
     padding-top: 20px;
     padding-bottom: 90px;
     margin: 0; 
+}
+#about{
+    color: black;
 }
