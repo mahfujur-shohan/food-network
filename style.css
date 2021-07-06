@@ -58,3 +58,24 @@ h2{
 .left-part p{
     margin-bottom: 50px;
 }
+#h-text{
+    text-align: center;
+    margin-top: 0;
+}
+#p-text{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 50px;
+}
+.row img{
+    height: 70%;
+    width: 75%;
+}
+.row{
+    display: flex;
+    margin-left: 8%;
+}
+.column p{
+    margin-right: 15%;
+}
